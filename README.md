@@ -1,3 +1,13 @@
+# Candidate & Submission Details
+* **Candidate Name:** Harsh Kumar
+* **Mobile Number:** +91 9720218944
+* **Assessment Title:** QA Assessment — Task Management Application
+* **Submission Date:** September 11, 2026
+* **Target Role:** QA Engineer / Software Tester
+
+---
+
+---
 # VirtuBox QA Assessment — Task Management Application
 
 QA Assessment submission for VirtuBox Infotech — Comprehensive Test Scenarios, Test Cases, and Risk/Bug Identification for Task Management Application.
