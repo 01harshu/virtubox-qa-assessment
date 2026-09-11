@@ -1,10 +1,12 @@
 # Candidate & Submission Details
-* **Candidate Name:** Harsh Kumar
+* **Candidate Name:** HARSH KUMAR
 * **Mobile Number:** +91 9720218944
+* **Email Address:** harshkumar9720218944@gmail.com
 * **Assessment Title:** QA Assessment — Task Management Application
 * **Submission Date:** September 11, 2026
 * **Target Role:** QA Engineer / Software Tester
 
+---
 ---
 
 ---
